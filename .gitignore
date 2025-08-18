@@ -3,7 +3,3 @@ solutions/
 .ipynb_checkpoints/
 __pycache__/
 *.py
-data/*
-!data/1k.variants.avro
-!data/userdata1.orc
-!data/userdata1.parquet
